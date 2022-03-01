@@ -1,0 +1,3 @@
+,StackName,LastUpdatedTimestamp,LogicalResourceId,PhysicalResourceId,ResourceType
+0,listing-stack-test,2022-02-16 12:22:38.016000+00:00,S3B25L2O,S3B25L2O,AWS::S3::Bucket
+1,listing-stack-test,2022-02-16 12:22:27.099000+00:00,SNSTNDMS,SNSTNDMS,AWS::SNS::Topic
